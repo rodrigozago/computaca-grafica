@@ -1,0 +1,3 @@
+/home/rz/Workspace/cg/pratica1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rz/Workspace/cg/pratica1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rz/Workspace/cg/pratica1/cmake-build-debug/CMakeFiles/pratica1.dir
